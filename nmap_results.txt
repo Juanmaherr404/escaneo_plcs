@@ -1,2 +1,0 @@
-# Nmap 7.95 scan initiated Tue Apr  1 18:04:03 2025 as: /usr/lib/nmap/nmap --privileged -p 80,443,8080,8000,5000,9000,4443,8888 --open -sS -sV -oG nmap_results.txt 172.233.100.0/24
-# Nmap done at Tue Apr  1 18:04:07 2025 -- 256 IP addresses (256 hosts up) scanned in 4.70 seconds
